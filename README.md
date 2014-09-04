@@ -1,2 +1,2 @@
-datasciencecoursera
-===================
+Exploratory Data Analysis
+=========================
